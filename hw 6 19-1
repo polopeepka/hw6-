@@ -23,3 +23,7 @@ class Solution:
                 print(array)
             else:
                 recursive(array[0])
+         
+Solution().get_num(nested_arrays.arrays)
+                
+                
